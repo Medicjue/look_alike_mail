@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import unittest
-from Detector import Detector
+from phish_detect.Detector import Detector
 
 class DetectorTestCase(unittest.TestCase):
     def setUp(self):
