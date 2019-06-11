@@ -1,5 +1,4 @@
-===============
-look_alike_mail
+### look_alike_mail ###
 
 ---------------
 Business email compromise (BEC) has become a major threat to corporate. [Ref](https://www.trendmicro.com/vinfo/us/security/definition/business-email-compromise-(bec))
